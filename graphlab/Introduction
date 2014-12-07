@@ -1,12 +1,12 @@
 Graphlab Integration with mesos.
 
 The files in the folder helps in understanding the approach to solve the problem.
-Although it is not fully successful, partial work is done. 
+ 
 
 For better understanding of the procedure, please follow "/src/graphlab/engine/warp_engine.hpp". Understanding the flow
 of the code will definitely help us. 
 
-I got time of 12 days for this work. So I couldn't able to make it fully successful. 
+I got time of 12 days for this work.
 
 Detailed description is in http://jsaisagar.blogspot.in/ 
                               or 
